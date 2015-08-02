@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<output>
+  <output_directory>"./output"</output_directory>
+  <object_name>"test"</object_name>
+  <save_intermediate_results>1</save_intermediate_results></output>
+<camera>
+  <width>1024</width>
+  <height>768</height></camera>
+<projector>
+  <width>1024</width>
+  <height>768</height></projector>
+<gain>
+  <camera_gain>29</camera_gain>
+  <projector_gain>36</projector_gain></gain>
+<distortion_model>
+  <enable_tangential_camera>1</enable_tangential_camera>
+  <enable_6th_order_radial_camera>0</enable_6th_order_radial_camera>
+  <enable_tangential_projector>1</enable_tangential_projector>
+  <enable_6th_order_radial_projector>0</enable_6th_order_radial_projector></distortion_model>
+<camera_chessboard>
+  <interior_horizontal_corners>8</interior_horizontal_corners>
+  <interior_vertical_corners>6</interior_vertical_corners>
+  <square_width_mm>25.</square_width_mm>
+  <square_height_mm>25.</square_height_mm></camera_chessboard>
+<projector_chessboard>
+  <interior_horizontal_corners>8</interior_horizontal_corners>
+  <interior_vertical_corners>6</interior_vertical_corners>
+  <square_width_pixels>75</square_width_pixels>
+  <square_height_pixels>75</square_height_pixels></projector_chessboard>
+<scanning_and_reconstruction>
+  <frame_delay_ms>300</frame_delay_ms>
+  <minimum_contrast_threshold>30</minimum_contrast_threshold>
+  <minimum_distance_mm>0.</minimum_distance_mm>
+  <maximum_distance_mm>750.</maximum_distance_mm>
+  <maximum_distance_variation_mm>100.</maximum_distance_variation_mm>
+  <minimum_background_distance_mm>20.</minimum_background_distance_mm></scanning_and_reconstruction>
+<visualization>
+  <display_intermediate_results>1</display_intermediate_results>
+  <display_window_width_pixels>640</display_window_width_pixels></visualization>
+</opencv_storage>

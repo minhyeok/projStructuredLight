@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<cam_extrinsic type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    1.91109335e+000 1.91441131e+000 4.46696401e-001 -9.52928009e+001
+    -5.67958145e+001 4.59142334e+002</data></cam_extrinsic>
+</opencv_storage>

@@ -1,0 +1,114 @@
+﻿빌드 시작: 2014-03-19 오후 4:57:00
+     1>2 노드의 "C:\Users\민혁\Documents\정통 프로젝트\TEST\TEST\TEST.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\cvScanProCam.cpp ..\cvStructuredLight.cpp
+         cvScanProCam.cpp
+     1>c:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(410): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(605): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(610): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(612): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(616): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(618): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(622): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(624): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(628): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(682): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(703): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(831): warning C4244: '=' : 'float'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(844): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(848): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(879): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(881): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(890): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(800): warning C4101: 'num2' :참조되지 않은 지역 변수입니다.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(800): warning C4101: 'num1' :참조되지 않은 지역 변수입니다.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(961): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(967): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(969): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(973): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(975): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(979): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(981): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(985): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(993): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(1041): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(1043): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(1051): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvscanprocam.cpp(1056): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+         코드를 생성하고 있습니다...
+         컴파일하고 있습니다...
+         cvStructuredLight.cpp
+     1>c:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(33): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(35): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 'fopen' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(84): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(86): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(88): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(116): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(117): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(128): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(129): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(140): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(141): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\민혁\documents\정통 프로젝트\test\cvstructuredlight.cpp(183): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 'scanf' 선언을 참조하십시오.
+         코드를 생성하고 있습니다...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\민혁\Documents\정통 프로젝트\TEST\Debug\TEST.exe" /INCREMENTAL /NOLOGO opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_objdetect248d.lib opencv_ts248d.lib opencv_video248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\민혁\Documents\정통 프로젝트\TEST\Debug\TEST.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\민혁\Documents\정통 프로젝트\TEST\Debug\TEST.lib" /MACHINE:X86 Debug\cvCalibrateProCam.obj
+         Debug\cvScanProCam.obj
+         Debug\cvStructuredLight.obj
+         Debug\cvUtilProCam.obj
+         Debug\stdafx.obj
+         TEST.vcxproj -> C:\Users\민혁\Documents\정통 프로젝트\TEST\Debug\TEST.exe
+     1>"C:\Users\민혁\Documents\정통 프로젝트\TEST\TEST\TEST.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:06.47
